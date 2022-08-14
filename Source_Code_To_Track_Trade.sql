@@ -301,6 +301,7 @@ From Table3;
 
 Select *
 From FinalTable
+Order By BuyDate;
 
 
 
